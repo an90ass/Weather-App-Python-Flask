@@ -18,7 +18,6 @@ A simple Flask-based web application to display the current weather of added cit
 
 1. **Clone the repository**:
    git clone https://github.com/an90ass/WeatherAPP.git
-   cd Weather_APP
 
 ## Running the Application
 1. **Start the Flask app**:
